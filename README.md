@@ -1,4 +1,4 @@
-# Colecoes_Lista2
+# Colecoes_Pilha
 programa em C# que le uma expressão matemática no formato da notação polonesa reversa, e imprime o resultado da expressão.
 Exemplo:
 Notação tradicional: A * B – C/D
